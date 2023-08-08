@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "scripts": {
+    "t": "node ./script.js"
+  },
   "dependencies": {
     "graceful-fs": "^4.2.11",
     "imagemin": "^8.0.1",
